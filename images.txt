@@ -1,1 +1,1 @@
-nginx:1.26
+docker-nfs-server.tar
