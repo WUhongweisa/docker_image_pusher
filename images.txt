@@ -1,1 +1,1 @@
-nfs-server-alpine
+nfs-server
