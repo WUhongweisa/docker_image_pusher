@@ -1,1 +1,1 @@
-nfs.tar.gz
+rockylinux:9
