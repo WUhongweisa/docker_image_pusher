@@ -1,1 +1,1 @@
-docker-nfs-server.tar
+nfs-server-alpine
