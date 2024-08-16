@@ -1,1 +1,1 @@
-alpine:latest
+centos:9
